@@ -1,0 +1,27 @@
+{
+  "name": "com.thedat07.firebase",
+  "displayName": "Firebase Unity SDK",
+  "version": "12.5.0",
+  "unity": "2021.3",
+  "description": "Firebase Unity SDK pack including Analytics, AppCheck, Crashlytics, Messaging, and RemoteConfig.",
+  "keywords": [
+    "firebase",
+    "analytics",
+    "appcheck",
+    "crashlytics",
+    "messaging",
+    "remoteconfig"
+  ],
+  "category": "sdk",
+  "homepage": "https://github.com/thedat07/Firebase",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thedat07/Firebase.git"
+  },
+  "bugs": "https://github.com/thedat07/Firebase/issues",
+  "author": {
+    "name": "thedat07",
+    "url": "https://github.com/thedat07"
+  },
+  "type": "library"
+}
